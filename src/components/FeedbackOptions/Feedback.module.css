@@ -1,0 +1,12 @@
+.button {
+  text-transform: capitalize;
+  border-radius: 3px;
+}
+
+.button:hover {
+ background: white;
+}
+
+.button:not(:last-child) {
+  margin-right: 8px;
+}

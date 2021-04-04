@@ -1,0 +1,6 @@
+.Statistics {
+  display: flex;
+  flex-direction: column;
+  font-size: 25px;
+  font-weight: 500;
+}
